@@ -1,4 +1,5 @@
 //How to RUN this:
+//npm install
 //node main.js, port will be 8080 at localhost.
 //issue first POST API
 //          example: http://localhost:8080/message. JSON body {"original":"<your string>"}
